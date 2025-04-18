@@ -209,6 +209,27 @@ monthly_revenue_by_payment = (
 
 ---
 
+---
+
+## ⚙️ Dependencies
+
+To ensure full reproducibility of this analysis, the following versions were used:
+
+- Python 3.8+
+- pandas 1.3.0
+- numpy 1.21.0
+- matplotlib 3.4.0
+- seaborn 0.11.1
+- Jupyter Notebook
+- Tableau Public (2021.4+)
+
+📦 You can install the core Python libraries using:
+
+```bash
+pip install pandas==1.3.0 numpy==1.21.0 matplotlib==3.4.0 seaborn==0.11.1
+
+---
+
 ## 🚀 What’s Next?
 
 This project can be extended with:
