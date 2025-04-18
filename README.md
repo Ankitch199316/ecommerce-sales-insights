@@ -106,13 +106,19 @@ link : https://public.tableau.com/views/SellerPaymentDashboardBrazilianE-Commerc
 
 ---
 
-## 💡 Key Insights & Takeaways
+## 📈 Business Insights & Recommended Actions
 
-1. **Credit Cards dominate** both in order count and revenue share (~76%).
-2. Delivery time varies significantly across product categories—**office furniture** has the longest delays.
-3. **Revenue spikes in May & August**, possibly due to seasonal demand or promotional campaigns.
-4. A small set of sellers contribute disproportionately to revenue—**heavy concentration at the top**.
-5. **SP and RJ are powerhouse states**—leading in both seller density and revenue.
+| 🔍 Insight | 💡 Business Action |
+|-----------|--------------------|
+| **76% of customers used credit cards for payment** | Focus marketing promotions and loyalty programs around credit card users. Consider partnerships with credit card companies to offer cashback or EMI plans. |
+| **Credit card users used an average of 3.6 installments** | Enable or highlight installment options more clearly during checkout to increase average order value. Bundle high-value items with flexible EMI plans. |
+| **SP (São Paulo) and RJ (Rio) generate the most revenue and have the most sellers** | Prioritize logistics, seller acquisition, and fulfillment capabilities in these high-performing regions. Launch region-specific seller training or incentives. |
+| **Office furniture and related categories had the longest delivery times (~20 days)** | Reevaluate the shipping and fulfillment process for bulky or slow-moving categories. Consider local warehousing or alternate 3PL partners. |
+| **Revenue spikes observed in May & August, then dips** | Investigate historical campaigns or shopping events during those peak months. Strategically plan promotions or influencer pushes to replicate success. |
+| **Seller revenue is highly concentrated among a few top sellers** | Introduce performance-driven programs or early-access tools to help mid-tier sellers scale up. Encourage more balanced seller contribution to reduce risk. |
+| **Low adoption of debit cards, vouchers, and boleto** | Create awareness campaigns or discounts specific to underused payment methods. This diversifies transaction risk and enhances inclusivity. |
+| **Very low cancellation rate (~0%)** | Excellent operational performance — highlight this in marketing as a trust-builder (“99%+ delivery rate”). Keep investing in fulfillment ops. |
+
 
 ---
 
