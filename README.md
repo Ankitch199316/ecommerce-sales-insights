@@ -39,6 +39,16 @@ This project helped me simulate the kind of end-to-end problem-solving expected 
 - `olist_order_payments_dataset.csv`
 - `olist_sellers_dataset.csv`
 
+## 📁 Dataset Source
+
+This project uses real-world data from **Olist**, one of Brazil’s largest online marketplaces.
+
+- 📦 **Source**: [Brazilian E-Commerce Public Dataset by Olist on Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+- 📅 Data spans from **2016 to 2018**
+- Includes customer orders, payments, product categories, sellers, reviews, and geolocation
+
+All data used was publicly available under a permissive license and cleaned for the purposes of this project.
+
 ---
 
 ## 🧪 Steps Performed
