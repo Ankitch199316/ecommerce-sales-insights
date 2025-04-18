@@ -192,16 +192,13 @@ monthly_revenue_by_payment = (
 ## 📁 Folder Structure
 
 ```plaintext
-📦 e-commerce-analysis/
-├── Project1.ipynb               # Python exploration and data prep
-├── Cleaned CSVs/
-│   ├── sales_data.csv
-│   ├── seller_revenue_by_state.csv
-│   ├── revenue_by_payment_type.csv
-├── Dashboards/
-│   ├── Dashboard1_SalesOverview.twbx
-│   ├── Dashboard2_Payment_Sellers.twbx
-└── README.md                    # You are here!
+📁 e-commerce-analysis/
+├── 📒 Project1.ipynb                     # Python exploration and analysis
+├── 📁 Clean_CSVs.zip                     # Zipped cleaned datasets
+├── 📊 Dashboard1_SalesOverview.twbx     # Tableau dashboard 1
+├── 📊 Dashboard2_PaymentSellerInsights.twbx # Tableau dashboard 2
+├── 📝 README.md                         # Project overview + insights
+
 ```
 
 ---
