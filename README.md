@@ -2,32 +2,36 @@
 
 ### 📁 Project Overview
 
-This project dives deep into transactional data from a leading Brazilian e-commerce marketplace. With over **100,000 orders**, it analyzes key aspects of customer orders, product categories, delivery logistics, payment methods, and seller performance.
+This project analyzes large-scale e-commerce transaction data (~100k orders) to evaluate seller performance and revenue concentration in a marketplace environment.
 
-The objective was not just to manipulate data, but to extract actionable business insights that reflect the real-world challenges and operations of online retail at scale.
+The goal is to understand how revenue is **distributed across sellers and regions**, **identify concentration risks**, and **demonstrate how data can inform decisions around seller strategy, diversification, and marketplace stability**.
 
 ---
 
-## 🧠 Motivation & Story
+## 🧠 Project Intent & Scope
 
-As a new budding data analyst, I wanted to challenge myself with a real-world, messy, multi-table dataset—something that would push me to integrate SQL-style joins, perform data cleaning, build a robust ETL pipeline in Python, and ultimately drive impactful storytelling via Tableau dashboards.
+This project was designed to simulate a realistic e-commerce analytics workflow, where analysts must work with messy, multi-table transactional data, align technical analysis with business questions, and communicate insights clearly to non-technical stakeholders.
 
-This project helped me simulate the kind of end-to-end problem-solving expected in modern analytics roles:
-- Data ingestion & cleaning
-- Exploratory & advanced analysis
-- Data enrichment across multiple datasets
-- KPI extraction
-- Interactive visualization
+The work spans the full analytics lifecycle:
+- Data ingestion and cleaning
+- Multi-table joins and enrichment
+- Metric definition and validation
+- Analysis focused on seller performance and revenue distribution
+- Interactive dashboards built for business consumption
 
 ---
 
 ## 📊 Business Goals
 
-- Identify **high-performing product categories** and delivery challenges
-- Uncover **revenue trends** over time and geography
-- Evaluate **seller distribution & concentration**
-- Compare **payment method performance** and customer preferences
-- Provide insights for strategic decision-making in logistics, marketing, and sales
+**Primary Goal**
+- Assess **seller revenue concentration** to understand dependency risks and performance imbalance within the marketplace.
+
+**Supporting Analyses**
+- Analyze revenue trends across time and geography to identify exposure patterns.
+- Evaluate high-performing product categories in relation to seller performance.
+- Examine delivery performance and logistics challenges impacting seller outcomes.
+- Compare payment method usage to understand its relationship with revenue distribution and customer behavior.
+
 
 ---
 
