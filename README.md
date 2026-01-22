@@ -105,18 +105,23 @@ link : https://public.tableau.com/views/SellerPaymentDashboardBrazilianE-Commerc
 ---
 
 ## 📈 Business Insights & Recommended Actions
+The insights below are framed to help marketplace operators identify revenue concentration risks, operational bottlenecks, and optimization opportunities that directly impact marketplace stability.
+
 
 | 🔍 Insight | 💡 Business Action |
 |-----------|--------------------|
-| **76% of customers used credit cards for payment** | Focus marketing promotions and loyalty programs around credit card users. Consider partnerships with credit card companies to offer cashback or EMI plans. |
-| **Credit card users used an average of 3.6 installments** | Enable or highlight installment options more clearly during checkout to increase average order value. Bundle high-value items with flexible EMI plans. |
-| **SP (São Paulo) and RJ (Rio) generate the most revenue and have the most sellers** | Prioritize logistics, seller acquisition, and fulfillment capabilities in these high-performing regions. Launch region-specific seller training or incentives. |
+| **76% of customers used credit cards for payment** | Prioritize optimization of credit-card checkout flows and EMI visibility, given their dominant contribution to transaction volume and revenue. |
+| **Credit card users used an average of 3.6 installments** | Use installment behavior as a lever for increasing average order value, while monitoring default and fulfillment risk. |
+| **SP (São Paulo) and RJ (Rio) generate the most revenue and have the most sellers** | Prioritize logistics capacity and seller enablement in SP and RJ, while monitoring over-concentration risk from geographic revenue dependency. |
 | **Office furniture and related categories had the longest delivery times (~20 days)** | Reevaluate the shipping and fulfillment process for bulky or slow-moving categories. Consider local warehousing or alternate 3PL partners. |
 | **Revenue spikes observed in May & August, then dips** | Investigate historical campaigns or shopping events during those peak months. Strategically plan promotions or influencer pushes to replicate success. |
 | **Seller revenue is highly concentrated among a few top sellers** | Introduce performance-driven programs or early-access tools to help mid-tier sellers scale up. Encourage more balanced seller contribution to reduce risk. |
-| **Low adoption of debit cards, vouchers, and boleto** | Create awareness campaigns or discounts specific to underused payment methods. This diversifies transaction risk and enhances inclusivity. |
+| **Low adoption of debit cards, vouchers, and boleto** | Evaluate targeted incentives for underutilized payment methods to reduce dependency on a single payment channel and improve transaction mix resilience. |
 | **Very low cancellation rate (~0%)** | Excellent operational performance — highlight this in marketing as a trust-builder (“99%+ delivery rate”). Keep investing in fulfillment ops. |
 
+## 🚀 Conclusion
+
+This project demonstrates how structured analysis of large-scale e-commerce transaction data can surface seller concentration risks, operational inefficiencies, and business-relevant insights that support informed decision-making for marketplace operators.
 
 ---
 
