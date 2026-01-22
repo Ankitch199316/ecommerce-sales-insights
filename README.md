@@ -55,31 +55,25 @@ All data used was publicly available under a permissive license and cleaned for 
 
 ---
 
-## 🧪 Steps Performed
+## 🧪 Analytical Approach
 
-### 1. **Data Acquisition & Exploration**
-- Loaded multiple CSV files
-- Explored schema and checked for nulls and duplicates
-- Conducted `info()` and `head()` evaluations
+The project followed a structured analytics workflow focused on ensuring data accuracy, meaningful aggregation, and business-aligned metrics.
 
-### 2. **Data Cleaning & Preprocessing**
-- Merged datasets (`order_items + products → orders`)
-- Added delivery days calculation
-- Standardized column names
-- Filtered out incomplete or missing records
-- Translated category names for better readability
+### Data Preparation & Validation
+- Integrated multiple transactional datasets into a unified orders table.
+- Cleaned incomplete records and standardized fields to ensure consistency.
+- Engineered delivery-time metrics and translated product categories for usability.
 
-### 3. **Enrichment & KPI Calculation**
-- Calculated total revenue per order
-- Added payment type insights: `% of orders`, `revenue`, `installments`
-- Extracted revenue over time by month and payment method
-- Generated seller KPIs:
-  - Top 10 Sellers by Revenue
-  - Seller Count by State
-  - Revenue by State
-  - Revenue Distribution Histogram
+### Revenue & Seller Attribution
+- Calculated order-level and seller-level revenue metrics.
+- Derived KPIs to evaluate seller performance and revenue distribution.
+- Analyzed geographic exposure through seller and revenue concentration by state.
 
-### 4. **Exported Processed Datasets**
+### Supporting Analyses
+- Examined payment method usage and installment behavior in relation to revenue trends.
+- Tracked revenue patterns over time to contextualize seller performance.
+
+### **Exported Processed Datasets**
 - Clean datasets were exported as `.csv` and fed into Tableau for visualization.
 
 ---
